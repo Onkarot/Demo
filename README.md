@@ -1,3 +1,4 @@
 # Demo
 This is demo repo.
-Author - Onkar Otari
+<br>
+<h1>Author - Onkar Otari</h1>
